@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 } */
-
+/* 
 #map {
 position: absolute;
 top: 0;
@@ -13,13 +13,14 @@ height: 100vh;
 
 .map-title {
     position: absolute;  /* Needed for z-index to take effect */
-    z-index: 999;        /* High value to ensure it is on top */
-    top: 10px;           /* Adjust the position as necessary */
-    width: 100%;
+    /* z-index: 999;        /* High value to ensure it is on top */
+    /* top: 10px;           /* Adjust the position as necessary */
+    /* width: 100%;
     text-align: center;
     font-size: 1.5em;
     color: #333;
-}
+/* } */
+
 
 
 /* input {
@@ -48,4 +49,26 @@ height: 100vh;
 /* } */
 
 
+#map {
+    position: absolute;
+    top: 60px; /* Adjust based on the actual height of your title */
+    bottom: 0;
+    width: 100%;
+    height: calc(100vh - 60px); /* Reduce the viewport height by the title height */
+}
 
+.map-title {
+    position: absolute;
+    z-index: 999;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.svg {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
