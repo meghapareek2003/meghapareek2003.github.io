@@ -51,11 +51,14 @@ height: 100vh;
 
 #map {
     position: absolute;
-    top: 60px; /* Adjust based on the actual height of your title */
-    bottom: 0;
-    width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    top: 30px;
+    bottom:0;
+    /* width: 100%	; 
     height: calc(100vh - 60px); /* Reduce the viewport height by the title height */
-}
+} */
 
 .map-title {
     position: absolute;
@@ -67,8 +70,3 @@ height: 100vh;
     color: #333;
 }
 
-.svg {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
