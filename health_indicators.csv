@@ -1,0 +1,233 @@
+﻿_id,Publication_Year,Health_Indicator_Desc,County,Denominator_Total,Numerator_Total,Rate Per 1000 Population
+70,2023,Deaths Due to All Cancers,Alameda,1671855,6796,4.064945824
+379,2023,Deaths Due to Diabetes,Alameda,1671855,1097,0.656157382
+483,2023,Deaths Due to Coronary Heart Disease,Alameda,1671855,3315,1.982827458
+713,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Alameda,1671855,584,0.34931259
+69,2023,Deaths Due to All Cancers,Alpine,1115,7,6.278026906
+355,2023,Deaths Due to Diabetes,Alpine,1115,0,0
+482,2023,Deaths Due to Coronary Heart Disease,Alpine,1115,3,2.69058296
+765,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Alpine,1115,2,1.793721973
+104,2023,Deaths Due to All Cancers,Amador,37577,325,8.648907576
+361,2023,Deaths Due to Diabetes,Amador,37577,28,0.745136653
+531,2023,Deaths Due to Coronary Heart Disease,Amador,37577,251,6.679617851
+757,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Amador,37577,38,1.011256886
+113,2023,Deaths Due to All Cancers,Butte,206362,1350,6.541902094
+376,2023,Deaths Due to Diabetes,Butte,206362,145,0.702648743
+512,2023,Deaths Due to Coronary Heart Disease,Butte,206362,788,3.818532482
+750,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Butte,206362,138,0.66872777
+98,2023,Deaths Due to All Cancers,Calaveras,44286,357,8.061238315
+360,2023,Deaths Due to Diabetes,Calaveras,44286,33,0.745156483
+494,2023,Deaths Due to Coronary Heart Disease,Calaveras,44286,197,4.448358398
+754,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Calaveras,44286,40,0.903219979
+66,2023,Deaths Due to All Cancers,Colusa,22075,86,3.89580974
+398,2023,Deaths Due to Diabetes,Colusa,22075,20,0.906002265
+508,2023,Deaths Due to Coronary Heart Disease,Colusa,22075,64,2.899207248
+722,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Colusa,22075,10,0.453001133
+77,2023,Deaths Due to All Cancers,Contra Costa,1149800,5559,4.83475387
+377,2023,Deaths Due to Diabetes,Contra Costa,1149800,811,0.705340059
+479,2023,Deaths Due to Coronary Heart Disease,Contra Costa,1149800,2298,1.998608454
+714,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Contra Costa,1149800,422,0.367020351
+118,2023,Deaths Due to All Cancers,Del Norte,27193,209,7.685801493
+411,2023,Deaths Due to Diabetes,Del Norte,27193,48,1.765160152
+489,2023,Deaths Due to Coronary Heart Disease,Del Norte,27193,72,2.647740227
+764,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Del Norte,27193,31,1.139999265
+79,2023,Deaths Due to All Cancers,El Dorado,192012,1134,5.905880882
+368,2023,Deaths Due to Diabetes,El Dorado,192012,119,0.619752932
+499,2023,Deaths Due to Coronary Heart Disease,El Dorado,192012,701,3.650813491
+740,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,El Dorado,192012,133,0.692665042
+90,2023,Deaths Due to All Cancers,Fresno,1026358,4062,3.957683381
+403,2023,Deaths Due to Diabetes,Fresno,1026358,903,0.879809969
+525,2023,Deaths Due to Coronary Heart Disease,Fresno,1026358,3316,3.23084148
+742,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Fresno,1026358,558,0.543669948
+106,2023,Deaths Due to All Cancers,Glenn,29507,160,5.422442132
+378,2023,Deaths Due to Diabetes,Glenn,29507,20,0.677805267
+509,2023,Deaths Due to Coronary Heart Disease,Glenn,29507,93,3.151794489
+731,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Glenn,29507,13,0.440573423
+116,2023,Deaths Due to All Cancers,Humboldt,132706,946,7.12853978
+387,2023,Deaths Due to Diabetes,Humboldt,132706,115,0.866577246
+517,2023,Deaths Due to Coronary Heart Disease,Humboldt,132706,512,3.858152608
+759,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Humboldt,132706,117,0.881648155
+65,2023,Deaths Due to All Cancers,Imperial,188090,642,3.41325961
+410,2023,Deaths Due to Diabetes,Imperial,188090,237,1.26003509
+495,2023,Deaths Due to Coronary Heart Disease,Imperial,188090,451,2.397788293
+735,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Imperial,188090,87,0.462544527
+86,2023,Deaths Due to All Cancers,Inyo,18429,123,6.674263389
+372,2023,Deaths Due to Diabetes,Inyo,18429,11,0.596885344
+492,2023,Deaths Due to Coronary Heart Disease,Inyo,18429,67,3.635574366
+763,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Inyo,18429,22,0.001193771
+97,2023,Deaths Due to All Cancers,Kern,912975,3498,0.00383143
+413,2023,Deaths Due to Diabetes,Kern,912975,1161,0.001271667
+530,2023,Deaths Due to Coronary Heart Disease,Kern,912975,2909,0.003186287
+752,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Kern,912975,568,0.000622142
+94,2023,Deaths Due to All Cancers,Kings,154745,533,0.003444376
+391,2023,Deaths Due to Diabetes,Kings,154745,91,0.000588064
+523,2023,Deaths Due to Coronary Heart Disease,Kings,154745,406,0.002623671
+760,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Kings,154745,101,0.000652687
+114,2023,Deaths Due to All Cancers,Lake,63771,525,0.008232582
+370,2023,Deaths Due to Diabetes,Lake,63771,46,0.000721331
+526,2023,Deaths Due to Coronary Heart Disease,Lake,63771,350,0.005488388
+767,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Lake,63771,125,0.001960139
+93,2023,Deaths Due to All Cancers,Lassen,28872,148,0.005126074
+363,2023,Deaths Due to Diabetes,Lassen,28872,14,0.000484899
+518,2023,Deaths Due to Coronary Heart Disease,Lassen,28872,115,0.003983098
+736,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Lassen,28872,14,0.000484899
+73,2023,Deaths Due to All Cancers,Los Angeles,10171593,43336,0.004260493
+399,2023,Deaths Due to Diabetes,Los Angeles,10171593,10019,0.000984998
+513,2023,Deaths Due to Coronary Heart Disease,Los Angeles,10171593,34720,0.003413428
+728,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Los Angeles,10171593,4929,0.000484585
+85,2023,Deaths Due to All Cancers,Madera,158794,676,0.004257088
+388,2023,Deaths Due to Diabetes,Madera,158794,123,0.000774588
+503,2023,Deaths Due to Coronary Heart Disease,Madera,158794,433,0.002726803
+741,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Madera,158794,91,0.00057307
+64,2023,Deaths Due to All Cancers,Marin,258956,1447,0.005587822
+357,2023,Deaths Due to Diabetes,Marin,258956,88,0.000339826
+473,2023,Deaths Due to Coronary Heart Disease,Marin,258956,641,0.002475324
+712,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Marin,258956,82,0.000316656
+75,2023,Deaths Due to All Cancers,Mariposa,17778,132,0.007424907
+364,2023,Deaths Due to Diabetes,Mariposa,17778,14,0.00078749
+515,2023,Deaths Due to Coronary Heart Disease,Mariposa,17778,107,0.006018675
+762,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Mariposa,17778,18,0.001012487
+111,2023,Deaths Due to All Cancers,Mendocino,87491,640,0.007315038
+381,2023,Deaths Due to Diabetes,Mendocino,87491,77,0.000880091
+516,2023,Deaths Due to Coronary Heart Disease,Mendocino,87491,384,0.004389023
+738,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Mendocino,87491,62,0.000708644
+95,2023,Deaths Due to All Cancers,Merced,284761,1082,0.003799678
+408,2023,Deaths Due to Diabetes,Merced,284761,281,0.000986792
+511,2023,Deaths Due to Coronary Heart Disease,Merced,284761,703,0.002468737
+739,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Merced,284761,144,0.000505687
+96,2023,Deaths Due to All Cancers,Modoc,9416,74,0.007858963
+407,2023,Deaths Due to Diabetes,Modoc,9416,13,0.001380629
+514,2023,Deaths Due to Coronary Heart Disease,Modoc,9416,51,0.005416313
+744,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Modoc,9416,5,0.000531011
+60,2023,Deaths Due to All Cancers,Mono,13447,33,0.002454079
+356,2023,Deaths Due to Diabetes,Mono,13447,2,0.000148732
+497,2023,Deaths Due to Coronary Heart Disease,Mono,13447,17,0.001264223
+725,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Mono,13447,7,0.000520562
+68,2023,Deaths Due to All Cancers,Monterey,441290,1691,0.003831947
+374,2023,Deaths Due to Diabetes,Monterey,441290,247,0.000559723
+474,2023,Deaths Due to Coronary Heart Disease,Monterey,441290,682,0.001545469
+726,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Monterey,441290,195,0.000441886
+99,2023,Deaths Due to All Cancers,Napa,138711,835,0.00601971
+367,2023,Deaths Due to Diabetes,Napa,138711,82,0.000591157
+507,2023,Deaths Due to Coronary Heart Disease,Napa,138711,507,0.003655081
+719,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Napa,138711,68,0.000490228
+91,2023,Deaths Due to All Cancers,Nevada,97439,743,0.007625284
+358,2023,Deaths Due to Diabetes,Nevada,97439,47,0.000482353
+491,2023,Deaths Due to Coronary Heart Disease,Nevada,97439,389,0.003992241
+747,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Nevada,97439,82,0.000841552
+72,2023,Deaths Due to All Cancers,Orange,3190832,14233,0.004460592
+371,2023,Deaths Due to Diabetes,Orange,3190832,1848,0.000579159
+493,2023,Deaths Due to Coronary Heart Disease,Orange,3190832,8647,0.002709952
+716,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Orange,3190832,1315,0.000412118
+74,2023,Deaths Due to All Cancers,Placer,397469,2290,0.005761456
+375,2023,Deaths Due to Diabetes,Placer,397469,326,0.00082019
+486,2023,Deaths Due to Coronary Heart Disease,Placer,397469,1226,0.003084517
+717,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Placer,397469,189,0.000475509
+88,2023,Deaths Due to All Cancers,Plumas,18246,150,0.00822098
+412,2023,Deaths Due to Diabetes,Plumas,18246,33,0.001808616
+529,2023,Deaths Due to Coronary Heart Disease,Plumas,18246,120,0.006576784
+756,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Plumas,18246,17,0.000931711
+89,2023,Deaths Due to All Cancers,Riverside,2449299,11622,0.004745031
+382,2023,Deaths Due to Diabetes,Riverside,2449299,1798,0.000734088
+520,2023,Deaths Due to Coronary Heart Disease,Riverside,2449299,9177,0.003746786
+734,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Riverside,2449299,1273,0.000519741
+107,2023,Deaths Due to All Cancers,Sacramento,1562242,7809,0.004998585
+402,2023,Deaths Due to Diabetes,Sacramento,1562242,1513,0.00096848
+504,2023,Deaths Due to Coronary Heart Disease,Sacramento,1562242,4259,0.00272621
+729,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Sacramento,1562242,727,0.000465357
+76,2023,Deaths Due to All Cancers,San Benito,62789,255,0.004061221
+405,2023,Deaths Due to Diabetes,San Benito,62789,66,0.00105114
+475,2023,Deaths Due to Coronary Heart Disease,San Benito,62789,89,0.001417446
+724,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Benito,62789,28,0.000445938
+101,2023,Deaths Due to All Cancers,San Bernardino,2184112,9145,0.004187056
+409,2023,Deaths Due to Diabetes,San Bernardino,2184112,2410,0.001103423
+519,2023,Deaths Due to Coronary Heart Disease,San Bernardino,2184112,6137,0.002809838
+746,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Bernardino,2184112,1304,0.000597039
+83,2023,Deaths Due to All Cancers,San Diego,3352145,15102,0.004505175
+384,2023,Deaths Due to Diabetes,San Diego,3352145,2522,0.000752354
+488,2023,Deaths Due to Coronary Heart Disease,San Diego,3352145,7740,0.002308969
+715,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Diego,3352145,1251,0.000373194
+63,2023,Deaths Due to All Cancers,San Francisco,899891,3781,0.00420162
+362,2023,Deaths Due to Diabetes,San Francisco,899891,462,0.000513396
+484,2023,Deaths Due to Coronary Heart Disease,San Francisco,899891,2276,0.002529195
+710,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Francisco,899891,253,0.000281145
+102,2023,Deaths Due to All Cancers,San Joaquin,776068,3456,0.004453218
+400,2023,Deaths Due to Diabetes,San Joaquin,776068,675,0.000869769
+505,2023,Deaths Due to Coronary Heart Disease,San Joaquin,776068,1927,0.00248303
+745,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Joaquin,776068,467,0.000601751
+84,2023,Deaths Due to All Cancers,San Luis Obispo,276151,1637,0.005927916
+365,2023,Deaths Due to Diabetes,San Luis Obispo,276151,164,0.000593878
+480,2023,Deaths Due to Coronary Heart Disease,San Luis Obispo,276151,708,0.002563815
+733,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Luis Obispo,276151,158,0.000572151
+62,2023,Deaths Due to All Cancers,San Mateo,775132,3321,0.004284432
+359,2023,Deaths Due to Diabetes,San Mateo,775132,346,0.000446376
+478,2023,Deaths Due to Coronary Heart Disease,San Mateo,775132,1697,0.002189305
+711,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,San Mateo,775132,224,0.000288983
+78,2023,Deaths Due to All Cancers,Santa Barbara,451329,2024,0.004484533
+369,2023,Deaths Due to Diabetes,Santa Barbara,451329,248,0.000549488
+490,2023,Deaths Due to Coronary Heart Disease,Santa Barbara,451329,1147,0.002541383
+723,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Santa Barbara,451329,201,0.000445351
+61,2023,Deaths Due to All Cancers,Santa Clara,1962251,7078,0.003607082
+383,2023,Deaths Due to Diabetes,Santa Clara,1962251,1457,0.000742515
+476,2023,Deaths Due to Coronary Heart Disease,Santa Clara,1962251,3463,0.00176481
+709,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Santa Clara,1962251,508,0.000258886
+80,2023,Deaths Due to All Cancers,Santa Cruz,270067,1265,0.004684023
+366,2023,Deaths Due to Diabetes,Santa Cruz,270067,129,0.000477659
+477,2023,Deaths Due to Coronary Heart Disease,Santa Cruz,270067,480,0.001777337
+730,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Santa Cruz,270067,133,0.00049247
+112,2023,Deaths Due to All Cancers,Shasta,177692,1306,0.007349796
+393,2023,Deaths Due to Diabetes,Shasta,177692,190,0.001069266
+527,2023,Deaths Due to Coronary Heart Disease,Shasta,177692,911,0.005126849
+753,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Shasta,177692,151,0.000849785
+71,2023,Deaths Due to All Cancers,Sierra,3117,26,0.008341354
+385,2023,Deaths Due to Diabetes,Sierra,3117,3,0.000962464
+498,2023,Deaths Due to Coronary Heart Disease,Sierra,3117,16,0.005133141
+720,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Sierra,3117,3,0.000962464
+117,2023,Deaths Due to All Cancers,Siskiyou,43792,413,0.009430946
+392,2023,Deaths Due to Diabetes,Siskiyou,43792,51,0.001164596
+501,2023,Deaths Due to Coronary Heart Disease,Siskiyou,43792,197,0.004498539
+766,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Siskiyou,43792,59,0.001347278
+108,2023,Deaths Due to All Cancers,Solano,440198,2505,0.005690621
+404,2023,Deaths Due to Diabetes,Solano,440198,495,0.001124494
+481,2023,Deaths Due to Coronary Heart Disease,Solano,440198,904,0.002053621
+718,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Solano,440198,194,0.000440711
+87,2023,Deaths Due to All Cancers,Sonoma,491134,2934,0.00597393
+373,2023,Deaths Due to Diabetes,Sonoma,491134,362,0.00073707
+485,2023,Deaths Due to Coronary Heart Disease,Sonoma,491134,1340,0.00272838
+721,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Sonoma,491134,248,0.000504954
+109,2023,Deaths Due to All Cancers,Stanislaus,555955,2671,0.004804346
+401,2023,Deaths Due to Diabetes,Stanislaus,555955,495,0.00089036
+521,2023,Deaths Due to Coronary Heart Disease,Stanislaus,555955,1759,0.003163925
+749,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Stanislaus,555955,355,0.000638541
+103,2023,Deaths Due to All Cancers,Sutter,101160,515,0.005090945
+380,2023,Deaths Due to Diabetes,Sutter,101160,71,0.000701858
+510,2023,Deaths Due to Coronary Heart Disease,Sutter,101160,321,0.003173191
+743,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Sutter,101160,59,0.000583234
+115,2023,Deaths Due to All Cancers,Tehama,65266,475,0.007277909
+396,2023,Deaths Due to Diabetes,Tehama,65266,66,0.001011246
+528,2023,Deaths Due to Coronary Heart Disease,Tehama,65266,320,0.004903012
+761,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Tehama,65266,64,0.000980602
+67,2023,Deaths Due to All Cancers,Trinity,13291,97,0.007298172
+397,2023,Deaths Due to Diabetes,Trinity,13291,15,0.001128583
+496,2023,Deaths Due to Coronary Heart Disease,Trinity,13291,61,0.004589572
+755,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Trinity,13291,14,0.001053344
+100,2023,Deaths Due to All Cancers,Tulare,480788,1943,0.004041282
+394,2023,Deaths Due to Diabetes,Tulare,480788,332,0.000690533
+522,2023,Deaths Due to Coronary Heart Disease,Tulare,480788,1359,0.00282661
+758,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Tulare,480788,340,0.000707172
+105,2023,Deaths Due to All Cancers,Tuolumne,52353,429,0.008194373
+390,2023,Deaths Due to Diabetes,Tuolumne,52353,73,0.00139438
+506,2023,Deaths Due to Coronary Heart Disease,Tuolumne,52353,243,0.004641568
+751,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Tuolumne,52353,45,0.00085955
+82,2023,Deaths Due to All Cancers,Ventura,841439,4014,0.004770399
+386,2023,Deaths Due to Diabetes,Ventura,841439,695,0.000825966
+502,2023,Deaths Due to Coronary Heart Disease,Ventura,841439,2554,0.003035276
+732,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Ventura,841439,452,0.000537175
+92,2023,Deaths Due to All Cancers,Yolo,221718,889,0.004009598
+395,2023,Deaths Due to Diabetes,Yolo,221718,164,0.000739678
+487,2023,Deaths Due to Coronary Heart Disease,Yolo,221718,428,0.00193038
+737,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Yolo,221718,102,0.000460044
+110,2023,Deaths Due to All Cancers,Yuba,79089,389,0.00491851
+406,2023,Deaths Due to Diabetes,Yuba,79089,80,0.001011519
+524,2023,Deaths Due to Coronary Heart Disease,Yuba,79089,259,0.003274792
+748,2023,Deaths Due to Chronic Liver Disease and Cirrhosis,Yuba,79089,48,0.000606911
